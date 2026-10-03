@@ -1,3 +1,6 @@
+import fullLogo from "../../assets/images/full_logo.jpeg";
+
+
 function ContactFooter() {
   return (
     <footer className="flex flex-col items-center text-center pt-space-sm pb-space-lg px-space-sm">
@@ -6,7 +9,7 @@ function ContactFooter() {
         <img
           className="w-full h-full object-contain rounded-full"
           alt="APV Farms official emblem"
-          src="src\assets\images\full_logo.jpeg"
+          src={fullLogo}
         />
       </div>
 

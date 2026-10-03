@@ -1,3 +1,5 @@
+import akashBiradar from "../../assets/images/akash_biradar.JPG";
+
 function FounderCard() {
   return (
     <div className="relative bg-surface-container-lowest rounded-2xl p-space-md shadow-md overflow-hidden">
@@ -22,7 +24,7 @@ function FounderCard() {
           <img
             className="w-16 h-16 rounded-2xl object-cover shadow-sm"
             alt="Akash Biradar"
-            src = "src\assets\images\akash_biradar.JPG"
+            src={akashBiradar}
           />
 
           <div className="absolute -bottom-1 -right-1 w-6 h-6 rounded-full bg-tertiary text-on-tertiary flex items-center justify-center shadow-sm">

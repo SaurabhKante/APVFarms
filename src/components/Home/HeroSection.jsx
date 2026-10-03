@@ -1,3 +1,5 @@
+import fullLogo from "../../assets/images/full_logo.jpeg";
+
 function HeroSection() {
   const scrollToNotification = () => {
     document.getElementById("notify-card")?.scrollIntoView({
@@ -31,7 +33,7 @@ function HeroSection() {
         {/* Logo */}
         <div className="relative mb-5 rounded-3xl bg-surface-container-lowest/95 p-1 shadow-xl backdrop-blur-md">
           <img
-            src="src\assets\images\full_logo.jpeg"
+            src={fullLogo}
             alt="APV Farms Logo Emblem"
             className="h-32 w-32 rounded-2xl object-contain p-2"
           />
