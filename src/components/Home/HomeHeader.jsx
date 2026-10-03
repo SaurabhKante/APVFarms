@@ -30,7 +30,7 @@ function HomeHeader() {
           <img
             alt="Profile"
             className="h-8 w-8 rounded-full object-cover ring-2 ring-primary-fixed-dim/40"
-            src="https://lh3.googleusercontent.com/aida/AEtjO1XgOAwkFMecMhqDKYf_CKV-qw4FD1ze62f_gSY_fgRYgW0eOawT0LATeRPX-U6vlvyuYgmE-AMrO5u1jtnrsVuAioIKiKJfjPP9rv4cWzIGMKk335ib1Fe8jGOvzWUM7PLlf9U4cCD3WLV58kIUTnYg6StF1VI5iNNx8Efxg_zXl1J7hZP8Z0V-trnRYoSiItFAYQAdCIGi5FPBgXiezytCSCyX6qSJ9p-nWAwmOsSkcQhPmxWM_b3yOpoppdz8ryu8zHlTp8DWcMM"
+            src="src\assets\images\logo.png"
           />
         </div>
       </div>

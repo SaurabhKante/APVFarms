@@ -22,7 +22,7 @@ function FounderCard() {
           <img
             className="w-16 h-16 rounded-2xl object-cover shadow-sm"
             alt="Akash Biradar"
-            src="https://lh3.googleusercontent.com/aida-public/AB6AXuD-Lbpj9G1RfkS8elHUmC0f2KCU8EVeMDgpTcBF14mTuRWUyXYQMzZYpNPH-F0Gg4SkRItGJKLkq_ozNv3BmkakbWSDIb2u2VUjEWEAiQbwauNQmKeuT57b6eF_y2HS4WeVOJc-kAVCZFomchcOYsU_SNSEVpTGIaOmoJwJ5TyX7ho6bdPOwprLw_pW3S9IJMehtzm8eeo9SCwsCGh4VGjiNZiBaxqLzz9Oxssl3ikoiNFSoC3IYY9IIQ"
+            src = "src\assets\images\akash_biradar.JPG"
           />
 
           <div className="absolute -bottom-1 -right-1 w-6 h-6 rounded-full bg-tertiary text-on-tertiary flex items-center justify-center shadow-sm">

@@ -6,7 +6,7 @@ function ContactFooter() {
         <img
           className="w-full h-full object-contain rounded-full"
           alt="APV Farms official emblem"
-          src="https://lh3.googleusercontent.com/aida-public/AB6AXuCDNQF9gvbmRappZBy5XFDfbjt6fUE0jRFXbvbYXFLzQKyuqejSIaCz2lYaGDwcPEVplwFkvPCV4VXAnRhQu19T01-RJBSI_AR2d1TeoRUxeA2WzF-UKUqBo9WYTwz3lH6JHrq8sHqbOxxyksqh2623bXHAheJKxtNvG2OpvM031PaqkworuRPgeqNStWM0AkbucKI1FG1iV9a1fC53PsPaPYTB9dZHDp0LMdOQKeDJ5AnjTCNi2VVaSQ"
+          src="src\assets\images\full_logo.jpeg"
         />
       </div>
 

@@ -31,7 +31,7 @@ function HeroSection() {
         {/* Logo */}
         <div className="relative mb-5 rounded-3xl bg-surface-container-lowest/95 p-1 shadow-xl backdrop-blur-md">
           <img
-            src="https://lh3.googleusercontent.com/aida-public/AB6AXuDK_lGSl5n-P1yO9WxcD6PAF40qdeOpGVs3a6Nl2kNV4AaAG-q3Y6M_GxWsdPEo-FlSyahePz0pltWsIkZnApzZyihG_UfQVs3E1PCZgZTqPIXecQbE3uZRL1k3z8G8HAyrA5pfVHI1cPehyVVO5Ya3q_YNW1L5G8UGP03cIVDTRLRpotF7kq5bX0dgfj5w31NJq1dvUjXel4dSdi9NHVw4P4bXieSouUTgg3t9n6fL09flWZDTLAan_avVLI6Vk11mHc"
+            src="src\assets\images\full_logo.jpeg"
             alt="APV Farms Logo Emblem"
             className="h-32 w-32 rounded-2xl object-contain p-2"
           />
